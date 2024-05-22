@@ -1,0 +1,32 @@
+1. Game engine
+- Unity
+2. Grafika i modele 3D
+- tworzenie modeli 3D, postaci, przedmiotów, mapy
+3.UI
+- menu główne
+- HUD
+- loading screen
+- interaktywne elementy: buttony, text etc.
+4. Mechanika gry
+- poruszanie sie
+- skakanie
+- otwieranie drzwi itp.
+- jazda autem
+- strzelanie
+- system hp i armora
+5. Fizyka i kolizje:
+- realistyczny ruch dla graczy i obiektow
+
+-system kolizji aut
+
+6. Muzyka
+
+- przyjazny soundtrack pasujacy do tematyki gry 
+
+7. testowanie
+
+-stestoiwanie gry
+
+8. dokumentacja
+
+- sporządzenie dokumentacji i wypuszczenie na steama
