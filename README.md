@@ -1,1 +1,2 @@
-#Pracownia.oprogramowanja
+#Pracownia.oprogramowania
+
